@@ -1,0 +1,24 @@
+{
+  "name": "Bangalore Auto Rickshaw Fare",
+  "short_name": "Auto Meter",
+  "description": "Bangalore auto rickshaw fare calculator with GPS estimator and UPI payment",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#f5a623",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/generated/rickshaw-icon-192.dim_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/generated/rickshaw-icon-512.dim_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
